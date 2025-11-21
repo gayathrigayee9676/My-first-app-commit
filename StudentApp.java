@@ -7,4 +7,7 @@ System.out.println("Enter student age");
 int age=sc.nextInt();
 System.out.println("Student Registered:"+name+"(Age"+age+")");
 }
+public void m1(){
+}
+} 
 }
